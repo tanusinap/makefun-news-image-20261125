@@ -1,5 +1,11 @@
 # News image: Wednesday 25 November 2026
 
+[![make.fun · news-image-20261125](https://make.fun/badge/news-image-20261125.svg)](https://make.fun/bounty/news-image-20261125)
+[![rank](https://make.fun/badge/news-image-20261125/tanusinap/makefun-news-image-20261125/rank.svg)](https://make.fun/bounty/news-image-20261125/leaderboard)
+[![reward](https://make.fun/badge/news-image-20261125/tanusinap/makefun-news-image-20261125/reward.svg)](https://make.fun/bounty/news-image-20261125)
+
+Bounty: [Sum up 25 November's world news in one image](https://make.fun/bounty/news-image-20261125)
+
 One-page newspaper summing up the world news of 25 November 2026 in a
 single 1024x1024 image. Built for the make.fun bounty "Sum up 25
 November's world news in one image" ($100, 50 places, closes Fri 27 Nov
